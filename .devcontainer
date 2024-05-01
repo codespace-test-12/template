@@ -1,4 +1,0 @@
-{  
-  "postCreateCommand": "echo $GITHUB_TOKEN"
-
-}
