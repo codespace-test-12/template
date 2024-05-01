@@ -1,3 +1,14 @@
 {  
-  "onCreateCommand": "echo $GITHUB_TOKEN"
+  "onCreateCommand": "echo $GITHUB_TOKEN",
+    "customizations": {
+    "codespaces": {
+      "repositories": {
+        "yellowrook1/yellowrook1": {
+          "permissions": {
+            "issues": "write"
+          }
+        }
+      }
+    }
+  }
 }
