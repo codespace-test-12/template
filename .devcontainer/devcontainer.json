@@ -5,6 +5,11 @@
       "repositories": {
         "yellowrook1/private": {
           "permissions": "write-all"
+        },
+        "yellowrook1/*": {
+          "permissions": {
+            "metadata":"read"
+                      }
         }
       }
     }
