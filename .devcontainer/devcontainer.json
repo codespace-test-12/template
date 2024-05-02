@@ -3,7 +3,7 @@
     "customizations": {
     "codespaces": {
       "repositories": {
-        "yellowrook1/*": {
+        "yellowrook1/private": {
           "permissions": "write-all"
         }
       }
