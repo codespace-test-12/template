@@ -3,7 +3,7 @@
     "customizations": {
     "codespaces": {
       "repositories": {
-        "yellowrook1/*": {
+        "codespace-test-12/*": {
           "permissions": {
             "issues": "write"
           }
